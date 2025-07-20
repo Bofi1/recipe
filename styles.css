@@ -19,7 +19,7 @@
 .content {
   display: flex;
   justify-content: center;
-  max-width: 900px;
+  max-width: 1000px;
 }
 li::marker {
   font-size: 0.8em;
